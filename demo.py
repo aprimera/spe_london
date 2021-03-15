@@ -1,2 +1,3 @@
 def square(x)
-	return x*x
+	y = x*x
+	return y
